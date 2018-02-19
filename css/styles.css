@@ -66,3 +66,7 @@ p.description{
 form:last-of-type {
 	margin: 20px 0;
 }
+
+button {
+	width: 100%;
+}

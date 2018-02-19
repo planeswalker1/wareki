@@ -1,6 +1,6 @@
 # _wareki_
 
-#### _Japanese and Western Calender Converter, 01.28.2018_
+#### _Japanese and Western Calender Converter, 02.18.2018_
 
 #### By _**planeswalker1**, **tkfmkjm**_
 
